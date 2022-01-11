@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "ureka.client.serviceUrl.defaultZone",
+  "type": "java.lang.String",
+  "description": "A description for 'ureka.client.serviceUrl.defaultZone'"
+}]}

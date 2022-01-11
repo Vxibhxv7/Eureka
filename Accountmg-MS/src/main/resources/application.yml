@@ -1,0 +1,13 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8010/eureka
+server:
+  port: 8030
+spring:
+  application:
+    name: accounting-ms
+  devtools:
+    remote:
+      restart:
+        enabled: true
